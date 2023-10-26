@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hanife Ozturk</h1>
 <h3 align="center">A passionate problem solver from France</h3>
 
-
-
 <p align="left"> <img src="https://image.freepik.com/vector-gratis/programacion-codificacion-programador-sentado-escritorio-trabajando-mesa-ofiice-laptop-documentos-lampara-cafe_284092-500.jpg" alt="hnfks" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

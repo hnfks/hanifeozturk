@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hanife Ozturk</h1>
 <h3 align="center">A passionate problem solver from France</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4-SoxRVvNog7lxd8TS5tTVOgK1wDjlL8pg&usqp=CAU">
+
 
 <p align="left"> <img src="https://image.freepik.com/vector-gratis/programacion-codificacion-programador-sentado-escritorio-trabajando-mesa-ofiice-laptop-documentos-lampara-cafe_284092-500.jpg" alt="hnfks" /> </p>
 

@@ -1,6 +1,4 @@
 
-[![MasterHead](https://giphy.com/gifs/simple-make-makeit-D6sll7fYG5PaOl1jbA)](https://github.com/hnfks/hanifeozturk)
-
 <h1 align="center">Hi 👋, I'm Hanife Ozturk</h1>
 <h3 align="center">A passionate problem solver from France</h3>
 
